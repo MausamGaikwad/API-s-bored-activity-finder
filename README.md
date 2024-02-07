@@ -25,7 +25,7 @@ HTML/CSS: Used for structuring and styling the frontend of the application.
 This project utilizes the [Bored API](https://www.boredapi.com/) to fetch activity data.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
 ## Contributors
 MAUSAM GAIKWAD
