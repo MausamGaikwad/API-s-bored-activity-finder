@@ -28,6 +28,6 @@ This project utilizes the Bored API to fetch activity data.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributors
-MAUSAM GAIKWAD
+Mausam Gaikwad
 ---
 **Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Let's make boredom a thing of the past together!**
