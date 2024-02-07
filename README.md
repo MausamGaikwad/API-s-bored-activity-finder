@@ -29,4 +29,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contributors
 Your Name
-Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Let's make boredom a thing of the past together!
+**Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Let's make boredom a thing of the past together!**
