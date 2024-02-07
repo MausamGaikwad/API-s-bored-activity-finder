@@ -22,7 +22,7 @@ Express.js: A web application framework for Node.js used to handle server-side l
 Axios: A promise-based HTTP client for making requests to the Bored API.
 HTML/CSS: Used for structuring and styling the frontend of the application.
 ## Credits
-This project utilizes the [Bored API] (https://www.boredapi.com/) to fetch activity data.
+This project utilizes the [Bored API](https://www.boredapi.com/) to fetch activity data.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
